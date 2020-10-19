@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="3" ignored="0" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57131" started-at="2020-10-18T10:30:47 IST" finished-at="2020-10-18T10:31:44 IST">
+  <suite name="Default suite" duration-ms="52215" started-at="2020-10-19T15:58:50 IST" finished-at="2020-10-19T15:59:42 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57131" started-at="2020-10-18T10:30:47 IST" finished-at="2020-10-18T10:31:44 IST">
+    <test name="Default test" duration-ms="52215" started-at="2020-10-19T15:58:50 IST" finished-at="2020-10-19T15:59:42 IST">
       <class name="takeScreenshot.screenShot">
-        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="intitialization" is-config="true" duration-ms="11730" started-at="2020-10-18T10:30:47 IST" finished-at="2020-10-18T10:30:59 IST">
+        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="intitialization" is-config="true" duration-ms="11974" started-at="2020-10-19T15:58:50 IST" finished-at="2020-10-19T15:59:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitialization -->
-        <test-method status="FAIL" signature="takescreenshot()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="takescreenshot" duration-ms="14" started-at="2020-10-18T10:30:59 IST" finished-at="2020-10-18T10:30:59 IST">
+        <test-method status="FAIL" signature="takescreenshot()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="takescreenshot" duration-ms="13" started-at="2020-10-19T15:59:02 IST" finished-at="2020-10-19T15:59:02 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [false] but found [true]]]>
@@ -59,27 +59,27 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takescreenshot -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="teardown" is-config="true" duration-ms="1058" started-at="2020-10-18T10:30:59 IST" finished-at="2020-10-18T10:31:00 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="teardown" is-config="true" duration-ms="771" started-at="2020-10-19T15:59:03 IST" finished-at="2020-10-19T15:59:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="intitialization" is-config="true" duration-ms="10281" started-at="2020-10-18T10:31:00 IST" finished-at="2020-10-18T10:31:11 IST">
+        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="intitialization" is-config="true" duration-ms="12104" started-at="2020-10-19T15:59:04 IST" finished-at="2020-10-19T15:59:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitialization -->
-        <test-method status="PASS" signature="takescreenshot1()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="takescreenshot1" duration-ms="2" started-at="2020-10-18T10:31:11 IST" finished-at="2020-10-18T10:31:11 IST">
+        <test-method status="PASS" signature="takescreenshot1()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="takescreenshot1" duration-ms="3" started-at="2020-10-19T15:59:16 IST" finished-at="2020-10-19T15:59:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takescreenshot1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="teardown" is-config="true" duration-ms="722" started-at="2020-10-18T10:31:11 IST" finished-at="2020-10-18T10:31:12 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="teardown" is-config="true" duration-ms="742" started-at="2020-10-19T15:59:16 IST" finished-at="2020-10-19T15:59:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="intitialization" is-config="true" duration-ms="10139" started-at="2020-10-18T10:31:12 IST" finished-at="2020-10-18T10:31:22 IST">
+        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="intitialization" is-config="true" duration-ms="12106" started-at="2020-10-19T15:59:17 IST" finished-at="2020-10-19T15:59:29 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitialization -->
-        <test-method status="FAIL" signature="takescreenshot2()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="takescreenshot2" duration-ms="2" started-at="2020-10-18T10:31:22 IST" finished-at="2020-10-18T10:31:22 IST">
+        <test-method status="FAIL" signature="takescreenshot2()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="takescreenshot2" duration-ms="3" started-at="2020-10-19T15:59:29 IST" finished-at="2020-10-19T15:59:29 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [false] but found [true]]]>
@@ -127,15 +127,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takescreenshot2 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="teardown" is-config="true" duration-ms="797" started-at="2020-10-18T10:31:22 IST" finished-at="2020-10-18T10:31:23 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="teardown" is-config="true" duration-ms="764" started-at="2020-10-19T15:59:29 IST" finished-at="2020-10-19T15:59:30 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="intitialization" is-config="true" duration-ms="19949" started-at="2020-10-18T10:31:23 IST" finished-at="2020-10-18T10:31:43 IST">
+        <test-method status="PASS" signature="intitialization()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="intitialization" is-config="true" duration-ms="10339" started-at="2020-10-19T15:59:30 IST" finished-at="2020-10-19T15:59:40 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intitialization -->
-        <test-method status="FAIL" signature="takescreenshot3()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="takescreenshot3" duration-ms="8" started-at="2020-10-18T10:31:43 IST" finished-at="2020-10-18T10:31:43 IST">
+        <test-method status="FAIL" signature="takescreenshot3()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="takescreenshot3" duration-ms="1" started-at="2020-10-19T15:59:40 IST" finished-at="2020-10-19T15:59:40 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [false] but found [true]]]>
@@ -183,7 +183,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takescreenshot3 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@3b084709]" name="teardown" is-config="true" duration-ms="715" started-at="2020-10-18T10:31:43 IST" finished-at="2020-10-18T10:31:44 IST">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:takeScreenshot.screenShot@22a67b4]" name="teardown" is-config="true" duration-ms="732" started-at="2020-10-19T15:59:42 IST" finished-at="2020-10-19T15:59:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

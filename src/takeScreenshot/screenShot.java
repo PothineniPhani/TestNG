@@ -7,7 +7,7 @@ import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import testBase.Base;
-@Listeners(screenShotListener.screenshotListener.class)
+@Listeners({screenShotListener.screenshotListener.class,listners.ExtendReportListner.class})
 public class screenShot extends Base{
 	
 	@BeforeMethod
